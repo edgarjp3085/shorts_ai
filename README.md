@@ -8,7 +8,7 @@ Ideal para gerar conteúdos no formato **YouTube Shorts, Reels e TikTok**, de fo
 
 ## 📌 Visão Geral
 
-O **Shorts AI** permite criar vídeos curtos a partir de textos ou outros insumos, utilizando recursos de IA para geração de áudio, cortes e organização do conteúdo.
+O **Shorts AI** permite criar vídeos curtos a partir de textos e imagens, utilizando recursos de IA para geração de áudio, cortes e organização do conteúdo.
 
 O objetivo é automatizar o processo de criação de vídeos curtos para redes sociais.
 
@@ -96,4 +96,7 @@ Este projeto está licenciado sob a licença MIT.
 👤 Autor
 
 Desenvolvido por Edgar Pereira
-GitHub: https://github.com/edgarjp3085
+
+Demo:
+
+https://aistudio.google.com/apps/drive/1KVeqO-oL97Z8aPvZmQ3z-8qXfujmHLOX?fullscreenApplet=true&showPreview=true&showAssistant=true
