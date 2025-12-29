@@ -96,4 +96,4 @@ Este projeto está licenciado sob a licença MIT.
 👤 Autor
 
 Desenvolvido por Edgar Pereira
-[Demo]([https://github.com/edgarjp3085](https://aistudio.google.com/apps/drive/1KVeqO-oL97Z8aPvZmQ3z-8qXfujmHLOX?fullscreenApplet=true&showPreview=true&showAssistant=true))
+[Demo](https://aistudio.google.com/apps/drive/1KVeqO-oL97Z8aPvZmQ3z-8qXfujmHLOX?fullscreenApplet=true&showPreview=true&showAssistant=true)
