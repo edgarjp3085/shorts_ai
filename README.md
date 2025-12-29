@@ -51,3 +51,49 @@ git clone https://github.com/edgarjp3085/shorts_ai.git
 cd shorts_ai
 
 
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+pip install -r requirements.txt
+
+## ⚙️ Configuração
+
+Configure as credenciais do Google Cloud:
+
+export GOOGLE_APPLICATION_CREDENTIALS="caminho/para/credentials.json"
+
+
+Windows (PowerShell):
+
+$env:GOOGLE_APPLICATION_CREDENTIALS="caminho\para\credentials.json"
+
+## ▶️ Uso
+
+Execute o script principal:
+
+python main.py
+
+
+(Ajuste os parâmetros conforme sua implementação.)
+
+## 📁 Estrutura do Projeto
+shorts_ai/
+├── main.py
+├── requirements.txt
+├── README.md
+└── src/
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas.
+Sinta-se à vontade para abrir issues ou pull requests.
+
+📄 Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+👤 Autor
+
+Desenvolvido por Edgar Pereira
+GitHub: https://github.com/edgarjp3085
